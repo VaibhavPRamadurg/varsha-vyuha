@@ -1,0 +1,23 @@
+model_version: "mitigation-water-balance-v1.0.0"
+provenance: "synthetic"
+time_step_hours: 1.0
+description: >-
+  Deterministic demonstration water-balance model over synthetic catchments.
+  It reports modeled accumulation and ponding-depth equivalents only.
+interventions:
+  clean_drains:
+    label: "Clean drains"
+    blockage_reduction_fraction: 0.60
+    description: "Demonstration assumption: reduces each assumed blockage fraction by 60%."
+  deploy_pumps:
+    label: "Deploy pumps"
+    added_capacity_m3_per_hour: 350.0
+    description: "Demonstration assumption: adds 350 m³/hour to each synthetic catchment."
+  upgrade_drainage:
+    label: "Upgrade drainage"
+    base_capacity_multiplier: 1.35
+    description: "Demonstration assumption: increases each assumed base drainage capacity by 35%."
+severity_thresholds_storage_fraction:
+  low: 0.25
+  medium: 0.50
+  high: 1.00

@@ -1,0 +1,22 @@
+# Untouched source downloads are local-only. Keep this sentinel so the directory exists.
+data/raw/*
+!data/raw/.gitkeep
+
+# Python tooling
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+.DS_Store
+
+# Frontend tooling
+node_modules/
+dist/
+frontend/coverage/
+*.tsbuildinfo
+
+# Environment files can contain deployment URLs and provider keys. Keep examples tracked.
+.env
+.env.*
+!.env.example
+!**/.env.example

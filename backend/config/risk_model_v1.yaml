@@ -1,0 +1,19 @@
+model_version: "risk-model-v1.2.0-evidence-backed"
+provenance: "scenario_estimate"
+description: >-
+  Deterministic scenario-based estimate using observed IMD historical rainfall,
+  Copernicus DEM relative elevation, derived OSM water proximity, and a synthetic
+  drainage-blockage input. It is not a flood forecast and makes no predictive claim.
+weights:
+  historical_rainfall: 0.40
+  relative_low_elevation: 0.25
+  water_proximity: 0.20
+  drainage_blockage: 0.15
+normalization:
+  rainfall_multiplier_at_max: 3.0
+  drainage_blockage_percent_at_max: 100.0
+risk_bands:
+  low: 25
+  medium: 50
+  high: 75
+  critical: 100

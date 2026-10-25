@@ -1,0 +1,28 @@
+{
+  "access_date": "2026-10-24",
+  "artifact_role": "served_layer",
+  "file_name": "data/processed/imd_mumbai_sion_kurla_2023_monsoon_summary.geojson",
+  "geographic_coverage": "Two IMD 0.25\u00b0 cells overlapping the Sion\u2013Kurla study area, Mumbai, Maharashtra, India",
+  "input_artifacts": [
+    {
+      "file_name": "data/raw/imd/imd_mumbai_sion_kurla_rainfall_2023_monsoon.nc",
+      "sha256": "c286bfb845d3876c74564dbaa30fae387c65f02aa7dba9d026110858bd9661a4"
+    }
+  ],
+  "licence_terms_link": "https://www.imdpune.gov.in/cmpg/Griddata/Rainfall_25_NetCDF.html",
+  "limitations": [
+    "Derived display summary of observed 0.25\u00b0 gridded rainfall; not street-level rainfall.",
+    "This is not an official flood warning or a flood prediction."
+  ],
+  "period": "2023-06-01 to 2023-09-30 (122 daily records)",
+  "processing_steps": [
+    "Read data/raw/imd/imd_mumbai_sion_kurla_rainfall_2023_monsoon.nc without changing it.",
+    "Validated the /rain/rain daily mm/day variable and exact requested time period.",
+    "Summed and averaged each observed grid-cell time series and emitted its GeoTransform-derived polygon extent.",
+    "Calculated a study-area-overlap weighted summary for display; no risk score, flood extent, or prediction was calculated."
+  ],
+  "provider": "FloodShift AI processing of India Meteorological Department observed gridded rainfall",
+  "sha256": "97cd4859ed09664a6304e2befcf94619a8d16271434ca1e695e35d65958ed457",
+  "source_type": "derived",
+  "url": "https://www.imdpune.gov.in/cmpg/Griddata/Rainfall_25_NetCDF.html"
+}

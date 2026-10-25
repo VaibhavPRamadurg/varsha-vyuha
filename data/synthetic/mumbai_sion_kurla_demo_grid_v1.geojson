@@ -1,0 +1,1205 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.865,
+              19.045
+            ],
+            [
+              72.87333333333333,
+              19.045
+            ],
+            [
+              72.87333333333333,
+              19.0534
+            ],
+            [
+              72.865,
+              19.0534
+            ],
+            [
+              72.865,
+              19.045
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-01-01",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.1,
+        "elevation_susceptibility": 0.1,
+        "grid_id": "MUM-DEMO-01-01",
+        "synthetic_baseline_susceptibility_proxy": 0.1,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.87333333333333,
+              19.045
+            ],
+            [
+              72.88166666666667,
+              19.045
+            ],
+            [
+              72.88166666666667,
+              19.0534
+            ],
+            [
+              72.87333333333333,
+              19.0534
+            ],
+            [
+              72.87333333333333,
+              19.045
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-01-02",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.3,
+        "elevation_susceptibility": 0.6,
+        "grid_id": "MUM-DEMO-01-02",
+        "synthetic_baseline_susceptibility_proxy": 0.5,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.88166666666666,
+              19.045
+            ],
+            [
+              72.89,
+              19.045
+            ],
+            [
+              72.89,
+              19.0534
+            ],
+            [
+              72.88166666666666,
+              19.0534
+            ],
+            [
+              72.88166666666666,
+              19.045
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-01-03",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.5,
+        "elevation_susceptibility": 0.1,
+        "grid_id": "MUM-DEMO-01-03",
+        "synthetic_baseline_susceptibility_proxy": 0.9,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.89,
+              19.045
+            ],
+            [
+              72.89833333333334,
+              19.045
+            ],
+            [
+              72.89833333333334,
+              19.0534
+            ],
+            [
+              72.89,
+              19.0534
+            ],
+            [
+              72.89,
+              19.045
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-01-04",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.7,
+        "elevation_susceptibility": 0.6,
+        "grid_id": "MUM-DEMO-01-04",
+        "synthetic_baseline_susceptibility_proxy": 0.3,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.89833333333334,
+              19.045
+            ],
+            [
+              72.90666666666668,
+              19.045
+            ],
+            [
+              72.90666666666668,
+              19.0534
+            ],
+            [
+              72.89833333333334,
+              19.0534
+            ],
+            [
+              72.89833333333334,
+              19.045
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-01-05",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.9,
+        "elevation_susceptibility": 0.1,
+        "grid_id": "MUM-DEMO-01-05",
+        "synthetic_baseline_susceptibility_proxy": 0.7,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.90666666666667,
+              19.045
+            ],
+            [
+              72.915,
+              19.045
+            ],
+            [
+              72.915,
+              19.0534
+            ],
+            [
+              72.90666666666667,
+              19.0534
+            ],
+            [
+              72.90666666666667,
+              19.045
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-01-06",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.1,
+        "elevation_susceptibility": 0.6,
+        "grid_id": "MUM-DEMO-01-06",
+        "synthetic_baseline_susceptibility_proxy": 0.1,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.865,
+              19.0534
+            ],
+            [
+              72.87333333333333,
+              19.0534
+            ],
+            [
+              72.87333333333333,
+              19.061799999999998
+            ],
+            [
+              72.865,
+              19.061799999999998
+            ],
+            [
+              72.865,
+              19.0534
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-02-01",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.8,
+        "elevation_susceptibility": 0.4,
+        "grid_id": "MUM-DEMO-02-01",
+        "synthetic_baseline_susceptibility_proxy": 0.6,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.87333333333333,
+              19.0534
+            ],
+            [
+              72.88166666666667,
+              19.0534
+            ],
+            [
+              72.88166666666667,
+              19.061799999999998
+            ],
+            [
+              72.87333333333333,
+              19.061799999999998
+            ],
+            [
+              72.87333333333333,
+              19.0534
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-02-02",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 1.0,
+        "elevation_susceptibility": 0.9,
+        "grid_id": "MUM-DEMO-02-02",
+        "synthetic_baseline_susceptibility_proxy": 1.0,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.88166666666666,
+              19.0534
+            ],
+            [
+              72.89,
+              19.0534
+            ],
+            [
+              72.89,
+              19.061799999999998
+            ],
+            [
+              72.88166666666666,
+              19.061799999999998
+            ],
+            [
+              72.88166666666666,
+              19.0534
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-02-03",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.2,
+        "elevation_susceptibility": 0.4,
+        "grid_id": "MUM-DEMO-02-03",
+        "synthetic_baseline_susceptibility_proxy": 0.4,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.89,
+              19.0534
+            ],
+            [
+              72.89833333333334,
+              19.0534
+            ],
+            [
+              72.89833333333334,
+              19.061799999999998
+            ],
+            [
+              72.89,
+              19.061799999999998
+            ],
+            [
+              72.89,
+              19.0534
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-02-04",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.4,
+        "elevation_susceptibility": 0.9,
+        "grid_id": "MUM-DEMO-02-04",
+        "synthetic_baseline_susceptibility_proxy": 0.8,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.89833333333334,
+              19.0534
+            ],
+            [
+              72.90666666666668,
+              19.0534
+            ],
+            [
+              72.90666666666668,
+              19.061799999999998
+            ],
+            [
+              72.89833333333334,
+              19.061799999999998
+            ],
+            [
+              72.89833333333334,
+              19.0534
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-02-05",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.6,
+        "elevation_susceptibility": 0.4,
+        "grid_id": "MUM-DEMO-02-05",
+        "synthetic_baseline_susceptibility_proxy": 0.2,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.90666666666667,
+              19.0534
+            ],
+            [
+              72.915,
+              19.0534
+            ],
+            [
+              72.915,
+              19.061799999999998
+            ],
+            [
+              72.90666666666667,
+              19.061799999999998
+            ],
+            [
+              72.90666666666667,
+              19.0534
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-02-06",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.8,
+        "elevation_susceptibility": 0.9,
+        "grid_id": "MUM-DEMO-02-06",
+        "synthetic_baseline_susceptibility_proxy": 0.6,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.865,
+              19.0618
+            ],
+            [
+              72.87333333333333,
+              19.0618
+            ],
+            [
+              72.87333333333333,
+              19.0702
+            ],
+            [
+              72.865,
+              19.0702
+            ],
+            [
+              72.865,
+              19.0618
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-03-01",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.5,
+        "elevation_susceptibility": 0.7,
+        "grid_id": "MUM-DEMO-03-01",
+        "synthetic_baseline_susceptibility_proxy": 0.1,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.87333333333333,
+              19.0618
+            ],
+            [
+              72.88166666666667,
+              19.0618
+            ],
+            [
+              72.88166666666667,
+              19.0702
+            ],
+            [
+              72.87333333333333,
+              19.0702
+            ],
+            [
+              72.87333333333333,
+              19.0618
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-03-02",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.7,
+        "elevation_susceptibility": 0.2,
+        "grid_id": "MUM-DEMO-03-02",
+        "synthetic_baseline_susceptibility_proxy": 0.5,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.88166666666666,
+              19.0618
+            ],
+            [
+              72.89,
+              19.0618
+            ],
+            [
+              72.89,
+              19.0702
+            ],
+            [
+              72.88166666666666,
+              19.0702
+            ],
+            [
+              72.88166666666666,
+              19.0618
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-03-03",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.9,
+        "elevation_susceptibility": 0.7,
+        "grid_id": "MUM-DEMO-03-03",
+        "synthetic_baseline_susceptibility_proxy": 0.9,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.89,
+              19.0618
+            ],
+            [
+              72.89833333333334,
+              19.0618
+            ],
+            [
+              72.89833333333334,
+              19.0702
+            ],
+            [
+              72.89,
+              19.0702
+            ],
+            [
+              72.89,
+              19.0618
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-03-04",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.1,
+        "elevation_susceptibility": 0.2,
+        "grid_id": "MUM-DEMO-03-04",
+        "synthetic_baseline_susceptibility_proxy": 0.3,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.89833333333334,
+              19.0618
+            ],
+            [
+              72.90666666666668,
+              19.0618
+            ],
+            [
+              72.90666666666668,
+              19.0702
+            ],
+            [
+              72.89833333333334,
+              19.0702
+            ],
+            [
+              72.89833333333334,
+              19.0618
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-03-05",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.3,
+        "elevation_susceptibility": 0.7,
+        "grid_id": "MUM-DEMO-03-05",
+        "synthetic_baseline_susceptibility_proxy": 0.7,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.90666666666667,
+              19.0618
+            ],
+            [
+              72.915,
+              19.0618
+            ],
+            [
+              72.915,
+              19.0702
+            ],
+            [
+              72.90666666666667,
+              19.0702
+            ],
+            [
+              72.90666666666667,
+              19.0618
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-03-06",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.5,
+        "elevation_susceptibility": 0.2,
+        "grid_id": "MUM-DEMO-03-06",
+        "synthetic_baseline_susceptibility_proxy": 0.1,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.865,
+              19.0702
+            ],
+            [
+              72.87333333333333,
+              19.0702
+            ],
+            [
+              72.87333333333333,
+              19.078599999999998
+            ],
+            [
+              72.865,
+              19.078599999999998
+            ],
+            [
+              72.865,
+              19.0702
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-04-01",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.2,
+        "elevation_susceptibility": 1.0,
+        "grid_id": "MUM-DEMO-04-01",
+        "synthetic_baseline_susceptibility_proxy": 0.6,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.87333333333333,
+              19.0702
+            ],
+            [
+              72.88166666666667,
+              19.0702
+            ],
+            [
+              72.88166666666667,
+              19.078599999999998
+            ],
+            [
+              72.87333333333333,
+              19.078599999999998
+            ],
+            [
+              72.87333333333333,
+              19.0702
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-04-02",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.4,
+        "elevation_susceptibility": 0.5,
+        "grid_id": "MUM-DEMO-04-02",
+        "synthetic_baseline_susceptibility_proxy": 1.0,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.88166666666666,
+              19.0702
+            ],
+            [
+              72.89,
+              19.0702
+            ],
+            [
+              72.89,
+              19.078599999999998
+            ],
+            [
+              72.88166666666666,
+              19.078599999999998
+            ],
+            [
+              72.88166666666666,
+              19.0702
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-04-03",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.6,
+        "elevation_susceptibility": 1.0,
+        "grid_id": "MUM-DEMO-04-03",
+        "synthetic_baseline_susceptibility_proxy": 0.4,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.89,
+              19.0702
+            ],
+            [
+              72.89833333333334,
+              19.0702
+            ],
+            [
+              72.89833333333334,
+              19.078599999999998
+            ],
+            [
+              72.89,
+              19.078599999999998
+            ],
+            [
+              72.89,
+              19.0702
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-04-04",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.8,
+        "elevation_susceptibility": 0.5,
+        "grid_id": "MUM-DEMO-04-04",
+        "synthetic_baseline_susceptibility_proxy": 0.8,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.89833333333334,
+              19.0702
+            ],
+            [
+              72.90666666666668,
+              19.0702
+            ],
+            [
+              72.90666666666668,
+              19.078599999999998
+            ],
+            [
+              72.89833333333334,
+              19.078599999999998
+            ],
+            [
+              72.89833333333334,
+              19.0702
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-04-05",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 1.0,
+        "elevation_susceptibility": 1.0,
+        "grid_id": "MUM-DEMO-04-05",
+        "synthetic_baseline_susceptibility_proxy": 0.2,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.90666666666667,
+              19.0702
+            ],
+            [
+              72.915,
+              19.0702
+            ],
+            [
+              72.915,
+              19.078599999999998
+            ],
+            [
+              72.90666666666667,
+              19.078599999999998
+            ],
+            [
+              72.90666666666667,
+              19.0702
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-04-06",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.2,
+        "elevation_susceptibility": 0.5,
+        "grid_id": "MUM-DEMO-04-06",
+        "synthetic_baseline_susceptibility_proxy": 0.6,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.865,
+              19.0786
+            ],
+            [
+              72.87333333333333,
+              19.0786
+            ],
+            [
+              72.87333333333333,
+              19.087
+            ],
+            [
+              72.865,
+              19.087
+            ],
+            [
+              72.865,
+              19.0786
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-05-01",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.9,
+        "elevation_susceptibility": 0.3,
+        "grid_id": "MUM-DEMO-05-01",
+        "synthetic_baseline_susceptibility_proxy": 0.1,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.87333333333333,
+              19.0786
+            ],
+            [
+              72.88166666666667,
+              19.0786
+            ],
+            [
+              72.88166666666667,
+              19.087
+            ],
+            [
+              72.87333333333333,
+              19.087
+            ],
+            [
+              72.87333333333333,
+              19.0786
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-05-02",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.1,
+        "elevation_susceptibility": 0.8,
+        "grid_id": "MUM-DEMO-05-02",
+        "synthetic_baseline_susceptibility_proxy": 0.5,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.88166666666666,
+              19.0786
+            ],
+            [
+              72.89,
+              19.0786
+            ],
+            [
+              72.89,
+              19.087
+            ],
+            [
+              72.88166666666666,
+              19.087
+            ],
+            [
+              72.88166666666666,
+              19.0786
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-05-03",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.3,
+        "elevation_susceptibility": 0.3,
+        "grid_id": "MUM-DEMO-05-03",
+        "synthetic_baseline_susceptibility_proxy": 0.9,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.89,
+              19.0786
+            ],
+            [
+              72.89833333333334,
+              19.0786
+            ],
+            [
+              72.89833333333334,
+              19.087
+            ],
+            [
+              72.89,
+              19.087
+            ],
+            [
+              72.89,
+              19.0786
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-05-04",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.5,
+        "elevation_susceptibility": 0.8,
+        "grid_id": "MUM-DEMO-05-04",
+        "synthetic_baseline_susceptibility_proxy": 0.3,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.89833333333334,
+              19.0786
+            ],
+            [
+              72.90666666666668,
+              19.0786
+            ],
+            [
+              72.90666666666668,
+              19.087
+            ],
+            [
+              72.89833333333334,
+              19.087
+            ],
+            [
+              72.89833333333334,
+              19.0786
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-05-05",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.7,
+        "elevation_susceptibility": 0.3,
+        "grid_id": "MUM-DEMO-05-05",
+        "synthetic_baseline_susceptibility_proxy": 0.7,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.90666666666667,
+              19.0786
+            ],
+            [
+              72.915,
+              19.0786
+            ],
+            [
+              72.915,
+              19.087
+            ],
+            [
+              72.90666666666667,
+              19.087
+            ],
+            [
+              72.90666666666667,
+              19.0786
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "MUM-DEMO-05-06",
+      "properties": {
+        "demo_area": "Compact Sion-Kurla visual demo area",
+        "disclaimer": "Synthetic demo-only driver values; not measured terrain, drainage, or flood evidence.",
+        "drainage_road_proximity_proxy": 0.9,
+        "elevation_susceptibility": 0.8,
+        "grid_id": "MUM-DEMO-05-06",
+        "synthetic_baseline_susceptibility_proxy": 0.1,
+        "provenance": "SYNTHETIC_SCENARIO"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

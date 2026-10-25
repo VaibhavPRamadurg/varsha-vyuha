@@ -1,0 +1,29 @@
+{
+  "access_date": "2026-10-24",
+  "artifact_role": "served_layer",
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "file_name": "data/processed/osm_sion_kurla_roads_water_reference.geojson",
+  "geographic_coverage": "Sion\u2013Kurla context in the downloaded Mumbai OpenStreetMap export",
+  "input_artifacts": [
+    {
+      "file_name": "data/raw/osm/mumbai_sion_kurla_osm_reference.geojson",
+      "sha256": "2c3a398405a64345a1d86016767907d87372e21d802a01f338b097f89e1b8e36"
+    }
+  ],
+  "licence_terms_link": "https://www.openstreetmap.org/copyright",
+  "limitations": [
+    "DERIVED FROM OPENSTREETMAP context only; it does not establish flood conditions, routes, or facility availability.",
+    "OpenStreetMap contributors attribution and ODbL terms must remain visible."
+  ],
+  "period": "OpenStreetMap snapshot exported 2026-10-24T17:49:20Z",
+  "processing_steps": [
+    "Read data/raw/osm/mumbai_sion_kurla_osm_reference.geojson without changing it.",
+    "Retained 5672 highway-tagged road features, 72 waterway features, and 22 water-body polygons.",
+    "Removed hospitals and all other feature categories from the served context layer.",
+    "Copied source geometries without simplification and added provenance plus attribution fields."
+  ],
+  "provider": "FloodShift AI processing of OpenStreetMap contributors data",
+  "sha256": "3f8a0a37e9968e4dcffe7f5ec6775df2ca262536bbcb7b4965fa8e07750559e7",
+  "source_type": "derived",
+  "url": "https://www.openstreetmap.org/"
+}

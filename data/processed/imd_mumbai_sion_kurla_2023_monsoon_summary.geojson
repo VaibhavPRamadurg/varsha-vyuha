@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.625,
+              18.875
+            ],
+            [
+              72.875,
+              18.875
+            ],
+            [
+              72.875,
+              19.125
+            ],
+            [
+              72.625,
+              19.125
+            ],
+            [
+              72.625,
+              18.875
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "IMD-2023-MONSOON-1-1",
+      "properties": {
+        "grid_cell_id": "IMD-2023-MONSOON-1-1",
+        "latitude_center": 19.0,
+        "limitations": "0.25\u00b0 gridded rainfall; not street-level rainfall and not an official flood warning.",
+        "longitude_center": 72.75,
+        "observation_count": 122,
+        "period": "2023-06-01 to 2023-09-30",
+        "provenance": "OBSERVED",
+        "rainfall_mean_mm_per_day": 21.725,
+        "rainfall_total_mm": 2650.474,
+        "source": "India Meteorological Department (IMD), Climate Research & Services, Pune",
+        "source_type": "observed",
+        "study_area_overlap_fraction": 0.00672,
+        "units": "mm/day"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.875,
+              18.875
+            ],
+            [
+              73.125,
+              18.875
+            ],
+            [
+              73.125,
+              19.125
+            ],
+            [
+              72.875,
+              19.125
+            ],
+            [
+              72.875,
+              18.875
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "IMD-2023-MONSOON-1-2",
+      "properties": {
+        "grid_cell_id": "IMD-2023-MONSOON-1-2",
+        "latitude_center": 19.0,
+        "limitations": "0.25\u00b0 gridded rainfall; not street-level rainfall and not an official flood warning.",
+        "longitude_center": 73.0,
+        "observation_count": 122,
+        "period": "2023-06-01 to 2023-09-30",
+        "provenance": "OBSERVED",
+        "rainfall_mean_mm_per_day": 28.682,
+        "rainfall_total_mm": 3499.174,
+        "source": "India Meteorological Department (IMD), Climate Research & Services, Pune",
+        "source_type": "observed",
+        "study_area_overlap_fraction": 0.02688,
+        "units": "mm/day"
+      },
+      "type": "Feature"
+    }
+  ],
+  "name": "Observed IMD gridded rainfall summary, Mumbai Sion\u2013Kurla study area",
+  "period": "2023-06-01 to 2023-09-30",
+  "provenance": "OBSERVED",
+  "source_dataset": "imd_mumbai_sion_kurla_rainfall_2023_monsoon.nc",
+  "source_type": "derived",
+  "study_area_weighted_mean_mm_per_day": 27.29,
+  "study_area_weighted_total_mm": 3329.434,
+  "type": "FeatureCollection",
+  "units": "mm/day"
+}

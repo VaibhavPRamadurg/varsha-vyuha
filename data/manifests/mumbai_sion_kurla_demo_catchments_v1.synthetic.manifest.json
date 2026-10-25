@@ -1,0 +1,22 @@
+{
+  "access_date": "2026-10-24",
+  "artifact_role": "served_layer",
+  "file_name": "data/synthetic/mumbai_sion_kurla_demo_catchments_v1.geojson",
+  "geographic_coverage": "Ten synthetic rectangles across the compact Sion\u2013Kurla study extent, Mumbai, Maharashtra, India",
+  "licence_terms_link": "https://creativecommons.org/licenses/by/4.0/",
+  "limitations": [
+    "These are not surveyed drainage boundaries or real drainage-capacity measurements.",
+    "All hydraulic values and intervention effects are demonstration assumptions.",
+    "Outputs are modeled accumulation and ponding-depth equivalents only, not actual flood depth, predictions, or official advice."
+  ],
+  "period": "Not applicable; deterministic demonstration artifact",
+  "processing_steps": [
+    "Generated deterministically by scripts/generate_synthetic_demo_catchments.py.",
+    "Created 10 labelled rectangles with transparent invented area, runoff, drainage, blockage, and storage assumptions.",
+    "No surveyed drainage, catchment, pump, flood-depth, or live-condition information was used."
+  ],
+  "provider": "FloodShift AI demonstration-model generator",
+  "sha256": "4885d119fe59b107fe0c22d570e2f8dd5deee7fc094852d05ad63cea5f06f3e3",
+  "source_type": "synthetic",
+  "url": "synthetic://floodshift-ai/mumbai/sion-kurla-demo-catchments/v1"
+}

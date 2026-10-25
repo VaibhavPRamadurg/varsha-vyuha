@@ -1,0 +1,40 @@
+{
+  "access_date": "2026-10-25",
+  "artifact_role": "served_layer",
+  "attribution": "\u00a9 OpenStreetMap contributors for the water-context source",
+  "file_name": "data/processed/mumbai_sion_kurla_evidence_backed_scenario_drivers_v1.geojson",
+  "geographic_coverage": "120 synthetic Scenario Lab cells across the Sion\u2013Kurla study extent, Mumbai, Maharashtra, India",
+  "input_artifacts": [
+    {
+      "file_name": "data/raw/imd/imd_mumbai_sion_kurla_rainfall_2023_monsoon.nc",
+      "sha256": "c286bfb845d3876c74564dbaa30fae387c65f02aa7dba9d026110858bd9661a4"
+    },
+    {
+      "file_name": "data/raw/copernicus_dem/Copernicus_DSM_COG_10_N19_00_E072_00_DEM.tif",
+      "sha256": "b90f91a2b8cd69da327d8c133417d119a44f9880c8bb080114be5d8e9cf3dcdd"
+    },
+    {
+      "file_name": "data/raw/osm/mumbai_sion_kurla_osm_reference.geojson",
+      "sha256": "2c3a398405a64345a1d86016767907d87372e21d802a01f338b097f89e1b8e36"
+    }
+  ],
+  "licence_terms_link": "https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM",
+  "limitations": [
+    "IMD rainfall is a coarse 0.25\u00b0 observed grid and cannot resolve 120 local cells independently.",
+    "Copernicus GLO-30 is a surface model, not a drainage, hydrodynamic, or surveyed street-elevation dataset.",
+    "OSM water features are community-maintained reference context and may be incomplete or stale.",
+    "Derived drivers support transparent scenario exploration only; they are not flood evidence, a prediction, or an official warning."
+  ],
+  "period": "IMD rainfall: 2023-06-01 to 2023-09-30; DEM: Copernicus 2021 release; OSM: local verified export",
+  "processing_steps": [
+    "Read the immutable v2 synthetic grid geometry but ignored all its synthetic fixed driver values.",
+    "Area-weighted each grid cell against IMD observed 2023 daily-rainfall mean values.",
+    "Calculated mean Copernicus GLO-30 surface elevation within each grid cell and normalized relative low-elevation susceptibility across the study area.",
+    "Calculated centroid-to-nearest verified OSM waterway/water-body distance in EPSG:32643 and capped normalized water proximity at 1500 m.",
+    "Did not use roads as a score driver; drainage blockage is intentionally excluded because it is supplied only at scenario evaluation time."
+  ],
+  "provider": "FloodShift AI reproducible processing of IMD, Copernicus DEM GLO-30, and OpenStreetMap inputs",
+  "sha256": "dcd81237b74ff011484f0365df989aaf618386a22c8f878fe462d378256fe840",
+  "source_type": "derived",
+  "url": "https://copernicus-dem-30m.s3.amazonaws.com/Copernicus_DSM_COG_10_N19_00_E072_00_DEM/Copernicus_DSM_COG_10_N19_00_E072_00_DEM.tif"
+}

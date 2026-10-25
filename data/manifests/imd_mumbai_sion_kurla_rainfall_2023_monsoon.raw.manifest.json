@@ -1,0 +1,23 @@
+{
+  "access_date": "2026-10-24",
+  "artifact_role": "raw_input",
+  "file_name": "data/raw/imd/imd_mumbai_sion_kurla_rainfall_2023_monsoon.nc",
+  "geographic_coverage": "IMD 0.25\u00b0 grid subset: 18.875\u201319.125\u00b0 N, 72.625\u201373.125\u00b0 E; covers the Sion\u2013Kurla study area",
+  "licence_terms_link": "https://www.imdpune.gov.in/cmpg/Griddata/Rainfall_25_NetCDF.html",
+  "limitations": [
+    "The source is 0.25\u00b0 gridded rainfall, not a station or street-level measurement.",
+    "The compact study area crosses two very coarse grid cells; values cannot resolve neighbourhood variability.",
+    "Observed rainfall is not an official flood warning, flood extent, or risk prediction.",
+    "The IMD download page supplies a citation but the raw file contains no machine-readable licence text; users must follow IMD terms and citation guidance."
+  ],
+  "period": "2023-06-01 to 2023-09-30 (122 daily records)",
+  "processing_steps": [
+    "Manually downloaded unchanged into data/raw/imd/.",
+    "Validated as CF-1.7 NetCDF-4 with /rain/rain in mm/day before processing.",
+    "Raw artifact is never served by the application or modified by this script."
+  ],
+  "provider": "India Meteorological Department (IMD), Climate Research & Services, Pune",
+  "sha256": "c286bfb845d3876c74564dbaa30fae387c65f02aa7dba9d026110858bd9661a4",
+  "source_type": "observed",
+  "url": "https://www.imdpune.gov.in/cmpg/Griddata/Rainfall_25_NetCDF.html"
+}

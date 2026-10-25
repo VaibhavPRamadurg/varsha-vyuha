@@ -1,0 +1,22 @@
+{
+  "access_date": "2026-10-25",
+  "artifact_role": "raw_input",
+  "file_name": "data/raw/copernicus_dem/Copernicus_DSM_COG_10_N19_00_E072_00_DEM.tif",
+  "geographic_coverage": "1\u00b0 \u00d7 1\u00b0 tile: 19\u201320\u00b0 N, 72\u201373\u00b0 E; covers the Sion\u2013Kurla study area",
+  "licence_terms_link": "https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM",
+  "limitations": [
+    "Copernicus DEM GLO-30 is a Digital Surface Model and can include buildings, infrastructure, and vegetation.",
+    "Its nominal 30 m resolution does not establish street-level drainage or flood elevation.",
+    "Terrain input is used only as a relative susceptibility proxy, never as a flood forecast or official warning."
+  ],
+  "period": "Copernicus DEM 2021 release; static elevation product",
+  "processing_steps": [
+    "Downloaded unchanged from the documented public Copernicus DEM GLO-30 AWS object into data/raw/copernicus_dem/.",
+    "Validated as a single-band EPSG:4326 Cloud Optimized GeoTIFF with 3600 \u00d7 3600 pixels at 1 arc-second spacing.",
+    "The raw GeoTIFF is never modified or served by the application."
+  ],
+  "provider": "Copernicus DEM GLO-30 Public via AWS Open Data",
+  "sha256": "b90f91a2b8cd69da327d8c133417d119a44f9880c8bb080114be5d8e9cf3dcdd",
+  "source_type": "observed",
+  "url": "https://copernicus-dem-30m.s3.amazonaws.com/Copernicus_DSM_COG_10_N19_00_E072_00_DEM/Copernicus_DSM_COG_10_N19_00_E072_00_DEM.tif"
+}

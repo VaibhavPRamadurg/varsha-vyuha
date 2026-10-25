@@ -1,0 +1,21 @@
+{
+  "access_date": "2026-10-24",
+  "file_name": "data/synthetic/mumbai_sion_kurla_demo_grid_v1.geojson",
+  "geographic_coverage": "Compact Sion-Kurla-area bounding box, Mumbai, Maharashtra, India",
+  "licence_terms_link": "https://creativecommons.org/licenses/by/4.0/",
+  "limitations": [
+    "All values and grid geometry are synthetic scenario material.",
+    "Do not display as observed conditions, official forecast, or measured flood risk.",
+    "The synthetic baseline susceptibility proxy is invented and used only in Scenario Lab; it is not an observed or measured data input."
+  ],
+  "period": "Not applicable; deterministic synthetic demo artifact",
+  "processing_steps": [
+    "Generated deterministically by scripts/acquire_mumbai_reference_data.py.",
+    "Created 30 square cells over a compact visual demo area.",
+    "Assigned invented fixed driver proxies solely for Scenario Lab demonstration, including a synthetic baseline susceptibility proxy."
+  ],
+  "provider": "FloodShift AI MVP demo generator",
+  "sha256": "a29673f8b4d931208c2db0b4c33e4dfa5316678cacf0042d85d02bc0401263d5",
+  "source_type": "synthetic",
+  "url": "synthetic://floodshift-ai/mumbai/sion-kurla-demo-grid/v1"
+}

@@ -1,0 +1,22 @@
+{
+  "access_date": "2026-10-24",
+  "file_name": "data/synthetic/mumbai_sion_kurla_demo_grid_v2.geojson",
+  "geographic_coverage": "Compact Sion-Kurla-area bounding box, Mumbai, Maharashtra, India",
+  "licence_terms_link": "https://creativecommons.org/licenses/by/4.0/",
+  "limitations": [
+    "Grid geometry and identifiers are synthetic scenario material; fixed score drivers are not stored here.",
+    "Smaller cells improve scenario-map granularity only; they do not provide street-level accuracy or turn this model into a forecast.",
+    "Do not display as observed conditions, official forecast, or measured flood risk.",
+    "Drainage blockage is supplied separately as a clearly labelled synthetic scenario input."
+  ],
+  "period": "Not applicable; deterministic synthetic demo artifact",
+  "processing_steps": [
+    "Generated deterministically by scripts/generate_synthetic_grid_v2.py.",
+    "Created 120 square cells (12 columns \u00d7 10 rows) over the same compact Sion\u2013Kurla demo extent as v1.",
+    "Contains only stable synthetic grid geometry and identifiers; it has no fixed score-driver values."
+  ],
+  "provider": "FloodShift AI MVP demo generator",
+  "sha256": "e7abdbafc3a182ba55e38ddcd8166743917e4fc33de1d90dd6780dad7e8b0f47",
+  "source_type": "synthetic",
+  "url": "synthetic://floodshift-ai/mumbai/sion-kurla-demo-grid/v2"
+}

@@ -1,0 +1,9 @@
+fastapi==0.143.0
+uvicorn[standard]==0.41.0
+PyYAML==6.0.3
+netCDF4==1.7.4
+rasterio==1.5.2
+
+# Development/test
+pytest==9.1.1
+httpx==0.28.1

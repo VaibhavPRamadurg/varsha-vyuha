@@ -1,0 +1,437 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.865,
+              19.045
+            ],
+            [
+              72.875,
+              19.045
+            ],
+            [
+              72.875,
+              19.066000000000003
+            ],
+            [
+              72.865,
+              19.066000000000003
+            ],
+            [
+              72.865,
+              19.045
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "SK-DEMO-C01",
+      "properties": {
+        "area_m2": 205000,
+        "assumed_blockage_fraction": 0.24,
+        "base_drainage_capacity_m3_per_hour": 1100,
+        "catchment_id": "SK-DEMO-C01",
+        "disclaimer": "Synthetic demo catchment and demonstration assumptions; not a surveyed drainage boundary or live drainage condition.",
+        "name": "Synthetic demo catchment 1",
+        "optional_pump_capacity_m3_per_hour": 0,
+        "ponding_storage_capacity_m3": 8500,
+        "provenance": "SYNTHETIC_DEMO_CATCHMENT",
+        "runoff_coefficient": 0.66
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.875,
+              19.045
+            ],
+            [
+              72.885,
+              19.045
+            ],
+            [
+              72.885,
+              19.066000000000003
+            ],
+            [
+              72.875,
+              19.066000000000003
+            ],
+            [
+              72.875,
+              19.045
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "SK-DEMO-C02",
+      "properties": {
+        "area_m2": 214000,
+        "assumed_blockage_fraction": 0.3,
+        "base_drainage_capacity_m3_per_hour": 1220,
+        "catchment_id": "SK-DEMO-C02",
+        "disclaimer": "Synthetic demo catchment and demonstration assumptions; not a surveyed drainage boundary or live drainage condition.",
+        "name": "Synthetic demo catchment 2",
+        "optional_pump_capacity_m3_per_hour": 0,
+        "ponding_storage_capacity_m3": 9100,
+        "provenance": "SYNTHETIC_DEMO_CATCHMENT",
+        "runoff_coefficient": 0.7
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.885,
+              19.045
+            ],
+            [
+              72.89500000000001,
+              19.045
+            ],
+            [
+              72.89500000000001,
+              19.066000000000003
+            ],
+            [
+              72.885,
+              19.066000000000003
+            ],
+            [
+              72.885,
+              19.045
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "SK-DEMO-C03",
+      "properties": {
+        "area_m2": 198000,
+        "assumed_blockage_fraction": 0.2,
+        "base_drainage_capacity_m3_per_hour": 1000,
+        "catchment_id": "SK-DEMO-C03",
+        "disclaimer": "Synthetic demo catchment and demonstration assumptions; not a surveyed drainage boundary or live drainage condition.",
+        "name": "Synthetic demo catchment 3",
+        "optional_pump_capacity_m3_per_hour": 0,
+        "ponding_storage_capacity_m3": 8100,
+        "provenance": "SYNTHETIC_DEMO_CATCHMENT",
+        "runoff_coefficient": 0.62
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.895,
+              19.045
+            ],
+            [
+              72.905,
+              19.045
+            ],
+            [
+              72.905,
+              19.066000000000003
+            ],
+            [
+              72.895,
+              19.066000000000003
+            ],
+            [
+              72.895,
+              19.045
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "SK-DEMO-C04",
+      "properties": {
+        "area_m2": 220000,
+        "assumed_blockage_fraction": 0.34,
+        "base_drainage_capacity_m3_per_hour": 1260,
+        "catchment_id": "SK-DEMO-C04",
+        "disclaimer": "Synthetic demo catchment and demonstration assumptions; not a surveyed drainage boundary or live drainage condition.",
+        "name": "Synthetic demo catchment 4",
+        "optional_pump_capacity_m3_per_hour": 0,
+        "ponding_storage_capacity_m3": 9400,
+        "provenance": "SYNTHETIC_DEMO_CATCHMENT",
+        "runoff_coefficient": 0.73
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.905,
+              19.045
+            ],
+            [
+              72.915,
+              19.045
+            ],
+            [
+              72.915,
+              19.066000000000003
+            ],
+            [
+              72.905,
+              19.066000000000003
+            ],
+            [
+              72.905,
+              19.045
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "SK-DEMO-C05",
+      "properties": {
+        "area_m2": 208000,
+        "assumed_blockage_fraction": 0.27,
+        "base_drainage_capacity_m3_per_hour": 1160,
+        "catchment_id": "SK-DEMO-C05",
+        "disclaimer": "Synthetic demo catchment and demonstration assumptions; not a surveyed drainage boundary or live drainage condition.",
+        "name": "Synthetic demo catchment 5",
+        "optional_pump_capacity_m3_per_hour": 0,
+        "ponding_storage_capacity_m3": 8800,
+        "provenance": "SYNTHETIC_DEMO_CATCHMENT",
+        "runoff_coefficient": 0.68
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.865,
+              19.066000000000003
+            ],
+            [
+              72.875,
+              19.066000000000003
+            ],
+            [
+              72.875,
+              19.087000000000003
+            ],
+            [
+              72.865,
+              19.087000000000003
+            ],
+            [
+              72.865,
+              19.066000000000003
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "SK-DEMO-C06",
+      "properties": {
+        "area_m2": 212000,
+        "assumed_blockage_fraction": 0.31,
+        "base_drainage_capacity_m3_per_hour": 1180,
+        "catchment_id": "SK-DEMO-C06",
+        "disclaimer": "Synthetic demo catchment and demonstration assumptions; not a surveyed drainage boundary or live drainage condition.",
+        "name": "Synthetic demo catchment 6",
+        "optional_pump_capacity_m3_per_hour": 0,
+        "ponding_storage_capacity_m3": 9000,
+        "provenance": "SYNTHETIC_DEMO_CATCHMENT",
+        "runoff_coefficient": 0.71
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.875,
+              19.066000000000003
+            ],
+            [
+              72.885,
+              19.066000000000003
+            ],
+            [
+              72.885,
+              19.087000000000003
+            ],
+            [
+              72.875,
+              19.087000000000003
+            ],
+            [
+              72.875,
+              19.066000000000003
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "SK-DEMO-C07",
+      "properties": {
+        "area_m2": 201000,
+        "assumed_blockage_fraction": 0.22,
+        "base_drainage_capacity_m3_per_hour": 1050,
+        "catchment_id": "SK-DEMO-C07",
+        "disclaimer": "Synthetic demo catchment and demonstration assumptions; not a surveyed drainage boundary or live drainage condition.",
+        "name": "Synthetic demo catchment 7",
+        "optional_pump_capacity_m3_per_hour": 0,
+        "ponding_storage_capacity_m3": 8300,
+        "provenance": "SYNTHETIC_DEMO_CATCHMENT",
+        "runoff_coefficient": 0.64
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.885,
+              19.066000000000003
+            ],
+            [
+              72.89500000000001,
+              19.066000000000003
+            ],
+            [
+              72.89500000000001,
+              19.087000000000003
+            ],
+            [
+              72.885,
+              19.087000000000003
+            ],
+            [
+              72.885,
+              19.066000000000003
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "SK-DEMO-C08",
+      "properties": {
+        "area_m2": 225000,
+        "assumed_blockage_fraction": 0.36,
+        "base_drainage_capacity_m3_per_hour": 1300,
+        "catchment_id": "SK-DEMO-C08",
+        "disclaimer": "Synthetic demo catchment and demonstration assumptions; not a surveyed drainage boundary or live drainage condition.",
+        "name": "Synthetic demo catchment 8",
+        "optional_pump_capacity_m3_per_hour": 0,
+        "ponding_storage_capacity_m3": 9700,
+        "provenance": "SYNTHETIC_DEMO_CATCHMENT",
+        "runoff_coefficient": 0.75
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.895,
+              19.066000000000003
+            ],
+            [
+              72.905,
+              19.066000000000003
+            ],
+            [
+              72.905,
+              19.087000000000003
+            ],
+            [
+              72.895,
+              19.087000000000003
+            ],
+            [
+              72.895,
+              19.066000000000003
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "SK-DEMO-C09",
+      "properties": {
+        "area_m2": 207000,
+        "assumed_blockage_fraction": 0.26,
+        "base_drainage_capacity_m3_per_hour": 1130,
+        "catchment_id": "SK-DEMO-C09",
+        "disclaimer": "Synthetic demo catchment and demonstration assumptions; not a surveyed drainage boundary or live drainage condition.",
+        "name": "Synthetic demo catchment 9",
+        "optional_pump_capacity_m3_per_hour": 0,
+        "ponding_storage_capacity_m3": 8700,
+        "provenance": "SYNTHETIC_DEMO_CATCHMENT",
+        "runoff_coefficient": 0.67
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.905,
+              19.066000000000003
+            ],
+            [
+              72.915,
+              19.066000000000003
+            ],
+            [
+              72.915,
+              19.087000000000003
+            ],
+            [
+              72.905,
+              19.087000000000003
+            ],
+            [
+              72.905,
+              19.066000000000003
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "SK-DEMO-C10",
+      "properties": {
+        "area_m2": 218000,
+        "assumed_blockage_fraction": 0.33,
+        "base_drainage_capacity_m3_per_hour": 1240,
+        "catchment_id": "SK-DEMO-C10",
+        "disclaimer": "Synthetic demo catchment and demonstration assumptions; not a surveyed drainage boundary or live drainage condition.",
+        "name": "Synthetic demo catchment 10",
+        "optional_pump_capacity_m3_per_hour": 0,
+        "ponding_storage_capacity_m3": 9300,
+        "provenance": "SYNTHETIC_DEMO_CATCHMENT",
+        "runoff_coefficient": 0.72
+      },
+      "type": "Feature"
+    }
+  ],
+  "name": "Synthetic demo catchments for Sion\u2013Kurla mitigation simulator",
+  "provenance": "SYNTHETIC",
+  "type": "FeatureCollection"
+}
